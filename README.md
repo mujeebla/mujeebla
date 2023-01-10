@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning production level machine learning
 - 💞️ I’m looking to collaborate on Analytics dashboards and Supply Chain solutions.
-- 📫 You can reach me at lawmuj02@gmail.com
+- 📫 You can reach me at mujeeb.t.lawal@gmail.com
 
 <!---
 mujeebla/mujeebla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
