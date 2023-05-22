@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mujeebla
-- 👀 I’m interested in Data Science
+- 👀 I’m Data Scientist and Data Engineer with strong interest in supply chain data
 - 📫 You can reach me at mujeeb.t.lawal@gmail.com or lawmuj02@gmail.com
 
 <!---
