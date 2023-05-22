@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mujeebla
+- 👋 Hi, I’m Mujeeb Lawal
 - 👀 I’m Data Scientist and Data Engineer with strong interest in supply chain data
 - 📫 You can reach me at mujeeb.t.lawal@gmail.com or lawmuj02@gmail.com
 
